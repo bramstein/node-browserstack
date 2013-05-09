@@ -1,0 +1,18 @@
+{
+  "name": "node-browserstack",
+  "version": "0.1.0",
+  "description": "A BrowserStack API client (v3 & screenshot)",
+  "main": "lib/browserstack.js",
+  "dependencies": {
+    "url-template": "=2.0.1",
+    "request": "=2.21.0"
+  },
+  "repository": "https://github.com/bramstein/node-browserstack",
+  "keywords": [
+    "BrowserStack",
+    "browser",
+    "stack"
+  ],
+  "author": "Bram Stein <http://www.bramstein.com/> (b.l.stein@gmail.com)",
+  "license": "BSD"
+}
