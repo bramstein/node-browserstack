@@ -1,6 +1,6 @@
 {
   "name": "node-browserstack",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A BrowserStack API client (v3 & screenshot)",
   "main": "lib/browserstack.js",
   "dependencies": {
