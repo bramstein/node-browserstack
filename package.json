@@ -5,7 +5,7 @@
   "main": "lib/browserstack.js",
   "dependencies": {
     "url-template": "=2.0.1",
-    "request": "=2.21.0"
+    "request": "^2.44.0"
   },
   "repository": "https://github.com/bramstein/node-browserstack",
   "keywords": [
