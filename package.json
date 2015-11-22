@@ -1,7 +1,7 @@
 {
   "name": "node-browserstack",
   "version": "0.2.2",
-  "description": "A BrowserStack API client (v3 & screenshot)",
+  "description": "Deprecated. Use the browserstack module instead.",
   "main": "lib/browserstack.js",
   "dependencies": {
     "url-template": "=2.0.1",
